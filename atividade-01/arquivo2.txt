@@ -1,0 +1,15 @@
+Lista de Exercícios 01
+
+Exercício 01. O GitHub é uma plataforma que oferece a possibilidade de hospedar repositórios de código versionados através do sistema git, além de ferramentas para o desenvolvimento colaborativo. A Seção 3.1 apresenta uma visão geral desses sistemas. Siga as instruções dessa seção e crie sua conta no GitHub pois usaremos suas facilidades para hospedar o código desenvolvido ao longo do curso.
+
+Exercício 02. Siga os seguintes usuários do GitHub: gilberto-queiroz, gqueiroz e tkorting.
+
+Exercício 03. Acesse o repositório https://github.com/prog-geo/ipynb e marque com uma estrela esse repositório para poder monitorá-lo. Neste repositório, os professores irão disponibilizar diversos Jupyter Notebooks de suporte ao curso.
+
+Exercício 04. Crie um repositório experimental com alguns arquivos no formato texto e envie o endereço desse repositório para os professores da disciplina, com um resumo da sequência de comandos git utilizados no experimento.
+
+Exercício 05. Faça a leitura dos seguintes artigos:
+
+        Hunter, F. Pérez and B. Granger. 2011. Python: An Ecosystem for Scientific Computing. Computing in Science & Engineering, vol. 13, no. 02, pp. 13-21. DOI: 10.1109/MCSE.2010.119. [21]
+
+    Carl Boettiger. 2015. An introduction to Docker for reproducible research. SIGOPS Oper. Syst. Rev. 49, 1 (January 2015), 71–79. DOI: 10.1145/2723872.2723882. [4]
